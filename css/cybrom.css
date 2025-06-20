@@ -1,0 +1,44 @@
+
+#cb:hover
+{
+	color: blue;
+	
+}
+#ca:hover
+{
+background-color:red;
+	
+}
+#cb
+{
+	margin-left: 20px;
+
+} 
+footer {  
+ background:#152850; 
+  margin-top:100px;  
+}  
+footer a {  
+  color:#a2b8ee;  
+  font-size: 16px;
+}  
+footer a:hover {  
+  color:#a2b8ee;  
+  text-decoration: none;  
+}   
+.footer-middle {  
+padding-top: 30px;  
+  color: white;  
+}
+ ul li
+ {
+ 	padding: 5px;
+ }          
+.via
+{
+  width: 50px;
+  height: 50px;
+        }
+        
+        
+    
